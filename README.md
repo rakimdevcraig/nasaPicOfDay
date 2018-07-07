@@ -4,7 +4,7 @@ This app allows the user to pick a date and the Nasa picture or video of the day
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/nasaPicOfDay/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, API
